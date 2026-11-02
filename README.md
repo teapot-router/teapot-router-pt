@@ -40,6 +40,7 @@ Guias passo a passo (registro → primeira requisição → solução de problem
 
 ## O que você encontra no site
 
+- [Blog] Para onde vai mesmo uma fatura do Claude Code?(https://teapotrouter.com/pt/blog/where-does-a-claude-code-bill-go)
 - [Calculadora de custos gratuita (sem registro, tarifas ao vivo)](https://teapotrouter.com/pt/claude-code-cost-calculator) — assinatura vs pagamento por uso
 - **Preços públicos** — tarifa base e preço realmente pago de cada modelo, com um endpoint JSON sem login ([`/api/pricing`](https://teapotrouter.com/api/pricing)) para comparar via script
 - **Página de preços por modelo** — ex.: [claude-opus-5-5](https://teapotrouter.com/pt/pricing/claude-opus-5-5)
